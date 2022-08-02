@@ -1,0 +1,15 @@
+{
+  "timeout": 2000,
+  "baud": 9600,
+  "sleep": 1000,
+  "devices": [
+    {
+      "name": "alice",
+      "imei": "05D6FF363034474257257816"
+    },
+    {
+      "name": "ph_water",
+      "imei": "066DFF343138554157153542-4"
+    }
+  ]
+}
